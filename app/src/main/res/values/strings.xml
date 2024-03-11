@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WarmiWallqa</string>
+    <string name="usuario">usuario</string>
+    <string name="contraseña">contraseña</string>
+    <string name="olvidaste_contraseña">¿Olvidaste tu contraseña?</string>
+    <string name="boton_ingresar">INGRESAR</string>
+
 </resources>
