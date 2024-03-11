@@ -16,6 +16,10 @@ class Login : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.login)
 
+// Inicializar vistas
+        textUsuario = findViewById(R.id.textUsuario)
+        textPassword = findViewById(R.id.textPassword)
+        loginButton = findViewById(R.id.loginButton)
 
     }
 }
