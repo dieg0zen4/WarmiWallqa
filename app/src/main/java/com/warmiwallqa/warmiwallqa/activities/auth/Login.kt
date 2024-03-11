@@ -1,4 +1,4 @@
-package com.warmiwallqa.warmiwallqa.activities.authentication
+package com.warmiwallqa.warmiwallqa.activities.auth
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
